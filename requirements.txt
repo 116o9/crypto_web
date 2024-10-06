@@ -1,0 +1,8 @@
+requests
+PIL
+streamlit
+bcrypt
+streamlit_lottie
+os
+pathlib
+pickle
